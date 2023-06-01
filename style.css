@@ -1,0 +1,33 @@
+#body{
+    background-color: beige;
+}
+#title{
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+#instructions, #person1, #person2, #person3, #take_picture, #identify_picture, #webcam_text, #picture_text, #object_text, #accuracy_text{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+} 
+#camera, #picture{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    width: 250px;
+    height: 200px;
+
+}
+#border{
+    height: 2px;
+    background-color: black;
+}
+#take_picture, #identify_picture{
+    background-color: deepskyblue;
+    border-radius: 10px;
+    width: 125px;
+    height: 30px;
+    font-size: 15px;
+    border-width: 2px;
+}
